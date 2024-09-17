@@ -2,7 +2,7 @@
   "ads": {
    
 
-     "ShowAds": false,
+     "ShowAds": true,
      "ClickCount":5,
      "ShowLoadingAds": true,
 
