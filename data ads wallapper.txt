@@ -21,7 +21,7 @@
     
     "priorityInterstitial": "ironsource",
     "PriorityBanner": "ironsource",
-    "PriorityReward": "ironsource",
+    "PriorityReward": "yandex",
     "PriorityNative": "ironsource"
 
 
