@@ -3,7 +3,7 @@
    
 
      "ShowAds": true,
-     "ClickCount":5,
+     "ClickCount":2,
      "ShowLoadingAds": true,
 
    
@@ -12,11 +12,11 @@
     "IronInterstitial": "DefaultInterstitial",
     "ironsource_reward":"DefaultReward",
 
-     "yandex_banner": "demo-banner-yandex",
-     "yandex_inter": "demo-interstitial-yandex",
-     "yandex_native": "demo-native-app-yandex",
-    "yandex_reward":"demo-rewarded-yandex",
-    "openadyandex":"demo-appopenad-yandex",
+     "yandex_banner": "R-M-12045546-1",
+     "yandex_inter": "R-M-12045546-3",
+     "yandex_native": "R-M-12045546-2",
+    "yandex_reward":"R-M-12045546-4",
+    "openadyandex":"R-M-12045546-5",
 
     
     "priorityInterstitial": "ironsource",
