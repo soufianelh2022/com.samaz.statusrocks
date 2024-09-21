@@ -19,10 +19,10 @@
     "openadyandex":"R-M-12045546-5",
 
     
-    "priorityInterstitial": "ironsource",
-    "PriorityBanner": "ironsource",
+    "priorityInterstitial": "yandex",
+    "PriorityBanner": "yandex",
     "PriorityReward": "yandex",
-    "PriorityNative": "ironsource"
+    "PriorityNative": "yandex"
 
 
     
