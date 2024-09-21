@@ -3,7 +3,7 @@
    
 
      "ShowAds": true,
-     "ClickCount":2,
+     "ClickCount":1,
      "ShowLoadingAds": true,
 
    
