@@ -9,8 +9,8 @@
    
     "IronAppKey": "1fbdd6f05",
     "IronBanner": "DefaultBanner",
-    "IronInterstitial": "fymcjofw22cofdvm",
-    "ironsource_reward":"hthbjvhf64zgtsxm",
+    "IronInterstitial": "DefaultInterstitial",
+    "ironsource_reward":"DefaultReward",
 
      "yandex_banner": "R-M-12045546-1",
      "yandex_inter": "R-M-12045546-3",
