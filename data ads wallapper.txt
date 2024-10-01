@@ -7,10 +7,10 @@
      "ShowLoadingAds": true,
 
    
-    "IronAppKey": "147d445d9",
+    "IronAppKey": "1fbdd6f05",
     "IronBanner": "DefaultBanner",
-    "IronInterstitial": "DefaultInterstitial",
-    "ironsource_reward":"DefaultReward",
+    "IronInterstitial": "fymcjofw22cofdvm",
+    "ironsource_reward":"hthbjvhf64zgtsxm",
 
      "yandex_banner": "R-M-12045546-1",
      "yandex_inter": "R-M-12045546-3",
@@ -19,9 +19,9 @@
     "openadyandex":"R-M-12045546-5",
 
     
-    "priorityInterstitial": "yandex",
+    "priorityInterstitial": "ironsource",
     "PriorityBanner": "yandex",
-    "PriorityReward": "yandex",
+    "PriorityReward": "ironsource",
     "PriorityNative": "yandex"
 
 
