@@ -26,7 +26,7 @@
     
     "priorityInterstitial": "iron",
     "PriorityBanner": "iron",
-    "PriorityReward": "iron",
+    "PriorityReward": "admob",
     "PriorityNative": "admob"
 
 
