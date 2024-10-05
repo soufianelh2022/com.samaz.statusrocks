@@ -24,7 +24,7 @@
         "title": "Skate (submarine)"
     },
  {
-        "url": "https://www.thedigitalshades.com/wallpaper/view/Titanic.jpg",
+        "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/1660812/100000370263b1.jpg",
         "title": "Wilhelm Gustloff"
     },
  {
