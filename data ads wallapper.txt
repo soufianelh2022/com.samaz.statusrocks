@@ -3,26 +3,31 @@
    
 
      "ShowAds": true,
-     "ClickCount":1,
+     "ClickCount": 3,
      "ShowLoadingAds": true,
 
    
-    "IronAppKey": "1fbdd6f05",
+    "IronAppKey": "147d445d9",
     "IronBanner": "DefaultBanner",
     "IronInterstitial": "DefaultInterstitial",
     "ironsource_reward":"DefaultReward",
 
-     "yandex_banner": "R-M-12045546-1",
-     "yandex_inter": "R-M-12045546-3",
-     "yandex_native": "R-M-12045546-2",
-    "yandex_reward":"R-M-12045546-4",
-    "openadyandex":"R-M-12045546-5",
+     "yandex_banner": "demo-banner-yandex",
+     "yandex_inter": "demo-interstitial-yandex",
+     "yandex_native": "demo-native-app-yandex",
+    "yandex_reward":"demo-rewarded-yandex",
+    "openadyandex":"demo-appopenad-yandex",
+
+    "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"admob_reward":"ca-app-pub-3940256099942544/5224354917",
 
     
-    "priorityInterstitial": "yandex",
-    "PriorityBanner": "yandex",
-    "PriorityReward": "yandex",
-    "PriorityNative": "yandex"
+    "priorityInterstitial": "iron",
+    "PriorityBanner": "iron",
+    "PriorityReward": "iron",
+    "PriorityNative": "admob"
 
 
     
