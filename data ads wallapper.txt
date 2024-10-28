@@ -3,7 +3,7 @@
    
 
      "ShowAds": true,
-     "ClickCount": 1,
+     "ClickCount": 2,
      "ShowLoadingAds": true,
 
    
@@ -24,10 +24,10 @@
 "admob_reward":"ca-app-pub-5318077592177136/6545335505",
 
     
-    "priorityInterstitial": "admob",
-    "PriorityBanner": "admob",
-    "PriorityReward": "admob",
-    "PriorityNative": "admob"
+    "priorityInterstitial": "Iron",
+    "PriorityBanner": "Iron",
+    "PriorityReward": "Iron",
+    "PriorityNative": "Iron"
 
 
     
