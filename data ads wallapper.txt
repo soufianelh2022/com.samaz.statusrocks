@@ -26,7 +26,7 @@
     
     "priorityInterstitial": "Iron",
     "PriorityBanner": "Iron",
-    "PriorityReward": "Iron",
+    "PriorityReward": "yandex",
     "PriorityNative": "Iron"
 
 
