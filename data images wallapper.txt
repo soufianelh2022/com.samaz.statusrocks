@@ -1,43 +1,43 @@
 [
     {
-        "url": "https://i.ytimg.com/vi/jbipfju-vkI/maxresdefault.jpg",
+        "url": "https://ae01.alicdn.com/kf/Hcc6d836cb733445098a555241ec3699c5.jpg",
         "title": "Achille Lauro ship hd"
     },
  {
-        "url": "https://i.ytimg.com/vi/iYZmNSG5IEA/maxresdefault.jpg",
+        "url": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/1660812/100000370263b1.jpg",
         "title": "Argonaut (early submarine) "
     },
  {
-        "url": "https://i.pinimg.com/originals/94/b3/af/94b3af275faa5aa1c3d00740bb83c200.png",
+        "url": "https://i.pinimg.com/originals/28/b8/a9/28b8a98ec601d9e66db519fd8506a3b5.jpg",
         "title": "Flying Dutchman (legendary)"
     },
  {
-        "url": "https://i.ytimg.com/vi/9oZcoHCRzf0/maxresdefault.jpg",
+        "url": "https://catalog.detmir.st/media/EU77tOM7sv1lcTsMdgbeVjniRCR-k8Ji4o3msO0pnzg=",
         "title": "Holland (submarine)"
     },
  {
-        "url": "https://image.winudf.com/v2/image1/Y29tLmZsb2F0aW5nLnNhbmRib3guU2ltdWxhdG9yLnRpdGFuaWMuZmxvYXRpbmdzYW5kYm94bW9iaWxlX3NjcmVlbl8zXzE3MDU0MjU2MDFfMDg2/screen-3.jpg?fakeurl=1&type=.jpg",
+        "url": "https://i.pinimg.com/originals/a3/ba/e2/a3bae2ab477108a08923c048a22927d2.jpg",
         "title": "Nautilus (submarine)"
     },
  {
-        "url": "https://i.ytimg.com/vi/jhV2MTiMtWw/maxresdefault.jpg",
+        "url": "https://cdn1.ntv.com.tr/gorsel/nAWC7-YEEUWfOag-PaQdGA.jpg?width=952&height=540&mode=both&scale=both",
         "title": "Skate (submarine)"
     },
  {
-        "url": "https://pic.rutubelist.ru/video/64/2b/642b949137b7ed2b5cfcd3c42b43f8df.jpg",
+        "url": "https://media.moddb.com/images/mods/1/12/11557/TitanicWallpaper1920X1080.jpg",
         "title": "Wilhelm Gustloff"
     },
  {
-        "url": "https://i.pinimg.com/originals/a2/cd/3a/a2cd3ab470bd469eb32f216644fa4b36.png",
+        "url": "https://static1.tgcnt.ru/posts/_0/c1/c1c3c6fb9b03911625844219b022a9bb.jpg",
         "title": "aircraft carrier"
     },
  {
-        "url": "https://maddownload.com/wp-content/uploads/2022/06/floating-sandbox-008.jpg",
+        "url": "https://i.ytimg.com/vi/MIB_G6n-71M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGFcgTyhlMA8=&rs=AOn4CLB7xhiaVG0NiDFweUNZJd3C_K_S6Q",
         "title": "ship of the line"
     },
 
     {
-        "url": "https://image.winudf.com/v2/image1/Y29tLnNlcmFzcGlyLnNhbmRieGd1aWRlX3NjcmVlbl84XzE2MzcyMzc1MzdfMDk2/screen-8.jpg?fakeurl=1&type=.jpg",
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7748035b-64ab-4046-94fb-26a3f4803537/dgqlj4f-2a253455-d497-4a5f-9b70-a12b8b03dd45.jpg/v1/fill/w_1192,h_670,q_70,strp/titanic_night_by_tyetanic1912_dgqlj4f-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvNzc0ODAzNWItNjRhYi00MDQ2LTk0ZmItMjZhM2Y0ODAzNTM3XC9kZ3FsajRmLTJhMjUzNDU1LWQ0OTctNGE1Zi05YjcwLWExMmI4YjAzZGQ0NS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0jWTcX_-tc-cIpzpW85jbHjUB11QqgPNMAeheDJpeZQ",
         "title": "air-cushion machine"
     }
 ]
