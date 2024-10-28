@@ -20,7 +20,7 @@
         "title": "Nautilus (submarine)"
     },
  {
-        "url": "https://cdn1.ntv.com.tr/gorsel/nAWC7-YEEUWfOag-PaQdGA.jpg?width=952&height=540&mode=both&scale=both",
+        "url": "https://i.ytimg.com/vi/rFnsMl7u1l8/maxresdefault.jpg",
         "title": "Skate (submarine)"
     },
  {
@@ -28,7 +28,7 @@
         "title": "Wilhelm Gustloff"
     },
  {
-        "url": "https://static1.tgcnt.ru/posts/_0/c1/c1c3c6fb9b03911625844219b022a9bb.jpg",
+        "url": "https://i.pinimg.com/originals/34/c3/d4/34c3d4e5e0652fbdb827173a8fda7a04.jpg",
         "title": "aircraft carrier"
     },
  {
