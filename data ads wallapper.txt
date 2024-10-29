@@ -3,7 +3,7 @@
    
 
      "ShowAds": true,
-     "ClickCount": 2,
+     "ClickCount": 1,
      "ShowLoadingAds": true,
 
    
@@ -21,13 +21,13 @@
     "admob_inter":"ca-app-pub-5318077592177136/9525155393",
 "admob_banner":"ca-app-pub-5318077592177136/5932560598",
 "admob_native":"ca-app-pub-5318077592177136/8136848264",
-"admob_reward":"ca-app-pub-3940256099942544/5224354917",
+"admob_reward":"ca-app-pub-5318077592177136/6545335505",
 
     
-    "priorityInterstitial": "Iron",
-    "PriorityBanner": "Iron",
-    "PriorityReward": "yandex",
-    "PriorityNative": "Iron"
+    "priorityInterstitial": "admob",
+    "PriorityBanner": "admob",
+    "PriorityReward": "admob",
+    "PriorityNative": "admob"
 
 
     
