@@ -28,7 +28,7 @@
   
   "PriorityBanner":"max",
   "PriorityNative":"max",
-  "PriorityReward":"admob",
+  "PriorityReward":"max",
   "PriorityOpen":"max",
   "priorityInterstitial":"max",
  
