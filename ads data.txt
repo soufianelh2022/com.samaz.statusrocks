@@ -1,8 +1,8 @@
 {"ads":{
   
   "ShowAds":true,
-  "ClickCount":2,
-   "ShowLoadingAds":false,
+  "ClickCount":1,
+   "ShowLoadingAds":true,
   
   "IronAppKey":"147d445d9",
   "IronBanner":"DefaultBanner",
