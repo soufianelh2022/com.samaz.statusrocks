@@ -1,7 +1,7 @@
 {"ads":{
   
   "ShowAds":true,
-  "ClickCount":1,
+  "ClickCount":2,
    "ShowLoadingAds":true,
   
   "IronAppKey":"147d445d9",
