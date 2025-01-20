@@ -1,7 +1,7 @@
 {"ads":{
   
   "ShowAds":true,
-  "ClickCount":2,
+  "ClickCount":1,
    "ShowLoadingAds":true,
   
   "IronAppKey":"147d445d9",
@@ -26,11 +26,11 @@
   "MaxInterstitial": "b34dcb3570fac74e",
   "Maxopen":"4fc911c85c99357a",
   
-  "PriorityBanner":"max",
-  "PriorityNative":"max",
-  "PriorityReward":"max",
-  "PriorityOpen":"max",
-  "priorityInterstitial":"max",
+  "PriorityBanner":"admob",
+  "PriorityNative":"admob",
+  "PriorityReward":"admob",
+  "PriorityOpen":"admob",
+  "priorityInterstitial":"admob",
  
   "IronInterstitial":"DefaultInterstitial",
   "ironsource_reward":"DefaultReward"
