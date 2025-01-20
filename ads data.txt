@@ -26,11 +26,11 @@
   "MaxInterstitial": "b34dcb3570fac74e",
   "Maxopen":"4fc911c85c99357a",
   
-  "PriorityBanner":"admob",
-  "PriorityNative":"admob",
-  "PriorityReward":"admob",
-  "PriorityOpen":"admob",
-  "priorityInterstitial":"admob",
+  "PriorityBanner":"Max",
+  "PriorityNative":"Max",
+  "PriorityReward":"Max",
+  "PriorityOpen":"Max",
+  "priorityInterstitial":"Max",
  
   "IronInterstitial":"DefaultInterstitial",
   "ironsource_reward":"DefaultReward"
